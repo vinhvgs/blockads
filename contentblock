@@ -100,3 +100,7 @@ hdvietnam.com###youtube
 truyentranh.net###floatingColumn > div.embedAPI:first-child > div.embed-wrap.layout-1:last-child > div.embed-ul
 ||addthis.com^
 pagead2.
+/js/ads-
+||api.github.com/_private/browser/stats$important
+||collector.githubapp.com^
+
