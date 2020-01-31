@@ -76,7 +76,6 @@ miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.s
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:first-child > div.secondaryContent > iframe
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(3) > div.secondaryContent > iframe
 vnexpress.net##section.thongtin_dn
-vnexpress.net##section.thongtin_dn:nth-child(10)
 vnexpress.net##section.container.box-traodoi:nth-child(9) > ul.list-traodoi
 vnexpress.net###box_shop
 vnexpress.net###box_qua_tang_vne
