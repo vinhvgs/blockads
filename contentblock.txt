@@ -94,7 +94,6 @@ vnexpress.net##section.container:nth-child(8) > section.sidebar_home_2.sidebar_f
 vnexpress.net##section.container:nth-child(11) > section.sidebar_3:last-child > section.box_category.clearfix:nth-child(2)
 vnexpress.net###ewiki_widget > section.box_category.box_wiki.clearfix
 ||connect.facebook.net^$third-party,domain=~facebook.com|~fb.com
-24h.com.vn###wrapperd > div.clF.mrT10:nth-child(4) > div.contnr > div.colLt:first-child > aside:last-child
 hdvietnam.com###youtube
 truyentranh.net###floatingColumn > div.embedAPI:first-child > div.embed-wrap.layout-1:last-child > div.embed-ul
 ||addthis.com^
@@ -103,5 +102,10 @@ pagead2.
 ||api.github.com/_private/browser/stats$important
 ||collector.githubapp.com^
 apkpure.com##div.main.page-q:nth-child(4) > div.ad-box:nth-child(4)
-vnexpress.net##section.container:nth-child(8) > section.sidebar_home_3:last-child
+notepad.pw###\30 hGxfymeH72YaLQ8NY3mEh4wXKyCOj
+quantrimang.com###MetaNET_ADV_NUMBER_6 > img
+@@||denledcongtrinh.khoweb24h.com^$important,document,~extension
+infonet.vn###\39 82a9496-3a57efbf3025bcdc034949b3cb73b61e-0-7570
+thanhnien.vn###dablewidget_G7ZJbw7W > iframe
+
 
