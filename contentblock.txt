@@ -107,5 +107,9 @@ quantrimang.com###MetaNET_ADV_NUMBER_6 > img
 @@||denledcongtrinh.khoweb24h.com^$important,document,~extension
 infonet.vn###\39 82a9496-3a57efbf3025bcdc034949b3cb73b61e-0-7570
 thanhnien.vn###dablewidget_G7ZJbw7W > iframe
-
-
+anninhthudo.vn###adsctl00_main_PC_NEW_Story_Right_Big_Sticky > div.banner > div
+anninhthudo.vn###aspnetForm > div.site-wrap:nth-child(6) > div.banner:nth-child(3)
+anninhthudo.vn###adsctl00_main_NEW_PC_Home_Center1 > div.banner
+saostar.vn##div.bg-ffffff:nth-child(3) > div.single-page.ipad-w-100.ipad-l0.flexbox.w1180.ma.r80.pos-relative:last-child > div.cache-path:last-child > div.w1000.js-part-2.mt10:last-child > div.container:last-child > div.flexbox.container:last-child
+saostar.vn##div.home.mt0.js-home:nth-child(3) > div.flexbox.w1090.bg-fcedd9.pt20.pos-relative.r20.ma.ipad-w-100.ipad-p0-20.ipad-r0:last-child > div.pos-sticky.t0.ipad-dis-none.h-100.w50.screen1024-dis-none:first-child > img
+saostar.vn##div.home.mt0.js-home:nth-child(3) > div.flexbox.w1090.bg-fcedd9.pt20.pos-relative.r20.ma.ipad-w-100.ipad-p0-20.ipad-r0:last-child > div.pos-sticky.t0.ipad-dis-none.h-100.w50.screen1024-dis-none:last-child > img
