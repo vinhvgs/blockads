@@ -116,3 +116,6 @@ saostar.vn##div.home.mt0.js-home:nth-child(3) > div.flexbox.w1090.bg-fcedd9.pt20
 vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:first-child
 vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:nth-child(6)
 vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:nth-child(12)
+24h.com.vn###wrapperd > div.pdT5.pdB5.contnr.contnrd:nth-child(7)
+eva.vn###baiviet-container > p:nth-child(15) > a > img.news-image.width-100.loaded
+eva.vn###centerContent > aside:last-child > section.infodn.pdT10.pdB10 > div.pdT10.pdB10:first-child
