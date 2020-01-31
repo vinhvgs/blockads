@@ -113,3 +113,6 @@ anninhthudo.vn###adsctl00_main_NEW_PC_Home_Center1 > div.banner
 saostar.vn##div.bg-ffffff:nth-child(3) > div.single-page.ipad-w-100.ipad-l0.flexbox.w1180.ma.r80.pos-relative:last-child > div.cache-path:last-child > div.w1000.js-part-2.mt10:last-child > div.container:last-child > div.flexbox.container:last-child
 saostar.vn##div.home.mt0.js-home:nth-child(3) > div.flexbox.w1090.bg-fcedd9.pt20.pos-relative.r20.ma.ipad-w-100.ipad-p0-20.ipad-r0:last-child > div.pos-sticky.t0.ipad-dis-none.h-100.w50.screen1024-dis-none:first-child > img
 saostar.vn##div.home.mt0.js-home:nth-child(3) > div.flexbox.w1090.bg-fcedd9.pt20.pos-relative.r20.ma.ipad-w-100.ipad-p0-20.ipad-r0:last-child > div.pos-sticky.t0.ipad-dis-none.h-100.w50.screen1024-dis-none:last-child > img
+vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:first-child
+vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:nth-child(6)
+vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:nth-child(12)
