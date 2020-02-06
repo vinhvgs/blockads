@@ -154,7 +154,7 @@ async function login(username, password) {
 		}
 		let options = {
 			'method': 'POST',
-			'hostname': 'api.fshare.vn',
+			'hostname': 'api2.fshare.vn',
 			'port': 443,
 			'path': FSHARE_LOGIN_PATH,
 			'headers': {}
