@@ -203,7 +203,7 @@ async function transfer(fshare_file, remote_drive, remote_path) {
 
 async function genCmd(fshare_folder, remote_drive, remote_path, page=1, is_root_folder=true) {
 	const folder_code = fshare_folder.match(/folder\/(\w+)$/)[1]
-	const FSHARE_FOLDER_PATH = `/api/v3/files/folder?linkcode=${folder_code}&sort=type,-modified&page=${page}`
+	const FSHARE_FOLDER_PATH = `/api/v2/files/folder?linkcode=${folder_code}&sort=type,-modified&page=${page}`
 	
 	let options = {
 		'method': 'GET',
