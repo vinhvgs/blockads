@@ -119,3 +119,4 @@ vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_s
 24h.com.vn###wrapperd > div.pdT5.pdB5.contnr.contnrd:nth-child(7)
 eva.vn###baiviet-container > p:nth-child(15) > a > img.news-image.width-100.loaded
 eva.vn###centerContent > aside:last-child > section.infodn.pdT10.pdB10 > div.pdT10.pdB10:first-child
+vnexpress.net##section.container:nth-child(9) > section.sidebar_home_3:last-child
