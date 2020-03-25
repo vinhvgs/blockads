@@ -120,3 +120,5 @@ vnexpress.net###cung_chuyen_muc > div.width_common.common-grid > div.list_news_s
 eva.vn###baiviet-container > p:nth-child(15) > a > img.news-image.width-100.loaded
 eva.vn###centerContent > aside:last-child > section.infodn.pdT10.pdB10 > div.pdT10.pdB10:first-child
 vnexpress.net##section.container:nth-child(9) > section.sidebar_home_3:last-child
+forum.gocmod.com##div.n5e7b30b7738e3738827688.n5e7b30b7738ed215802089:nth-child(28)
+forum.gocmod.com##div.n5e7b30b7738e3738827688.n5e7b30b7738ed215802089:nth-child(28) > div.m5e7b30b7738ef078339123
