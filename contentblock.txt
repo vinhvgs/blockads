@@ -122,3 +122,4 @@ eva.vn###centerContent > aside:last-child > section.infodn.pdT10.pdB10 > div.pdT
 vnexpress.net##section.container:nth-child(9) > section.sidebar_home_3:last-child
 forum.gocmod.com##div.n5e7b30b7738e3738827688.n5e7b30b7738ed215802089:nth-child(28)
 forum.gocmod.com##div.n5e7b30b7738e3738827688.n5e7b30b7738ed215802089:nth-child(28) > div.m5e7b30b7738ef078339123
+forum.gocmod.com##div.x5e7b3136d0b0d546867131.r5e7b3136d0b16516321637:nth-child(20)
